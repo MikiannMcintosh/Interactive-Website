@@ -1,0 +1,174 @@
+//First css Page
+	body{
+		background-color: #ffd2a4;  
+		}
+
+
+	h1{
+		color: white;
+		width: 600px;
+		font-weight: bold;
+		text-align: center;
+		margin: 0 auto; 
+		}
+
+
+	.header{
+		color: #b2e676;
+		background-color: purple;
+		border: 10px dotted black;
+		border-radius: 25px;
+		width: 600px;
+		margin: 0 auto;
+	}
+		
+	.yes{
+		color: white;
+	}
+
+
+	//Second css Page
+	body{
+	 background-image: url(https://pic.chinesefontdesign.com/uploads/2015/10/023.gif);
+	}
+
+
+	h1{
+		color: #ff9d42;
+		background-color: #b6fffd;
+		border: 5px dotted black;
+		border-radius: 25px;
+		width: 300px;
+		box-shadow: 10px 10px 5px #90b4df;
+	}
+
+
+	h2{
+		color: #ff9d42;
+		background-color: #b6fffd;
+		border: 5px dotted black;
+		border-radius: 25px;
+		width: 300px;
+	}
+
+
+	h3{
+		color: #cf1605;
+		background-color: #b6fffd;
+		border: 5px dotted black;
+		border-radius: 25px;
+		width: 300px;
+		font-size: 200%;
+	}
+
+
+	//Third css Page
+	body{
+		background-image: url(https://media.giphy.com/media/8U4KpfHGxZavK/giphy.gif);
+	}
+
+
+
+
+	h1{
+		color: #b2e676;
+		background-color:  #b51712;
+		border: 5px dotted yellow;
+		width: 400px;
+		font-size: 250%;
+		
+	}
+
+
+	//Fourth css Page
+	body{
+		background-image: url(https://media.giphy.com/media/8U4KpfHGxZavK/giphy.gif);
+	}
+
+
+
+
+	h1{
+		color: #b2e676;
+		background-color:  #b51712;
+		border: 5px dotted yellow;
+		width: 400px;
+		font-size: 250%;
+		
+	}
+
+
+	h2{
+		color: #b2e676;
+		background-color:  #b51712;
+		border: 5px dotted yellow;
+		width: 400px;
+		font-size: 250%;
+	}
+
+
+	//Fifth css Page
+	body{
+		background-image: url(https://media.giphy.com/media/uBPPnx71M810s/giphy.gif);
+	}
+
+
+
+
+	h1{
+		color: #b2e676;
+		background-color:  #b51712;
+		border: 5px dotted yellow;
+		width: 600px;
+		font-size: 250%;	
+	}
+
+
+	//Sixth css Page
+	body{
+		background-image: url(https://pic.chinesefontdesign.com/uploads/2015/10/053.gif);
+	}
+
+
+	h1{
+		color: #b2e676;
+		background-color: purple;/* a is auto, which makes the color transparent; anything less than zero is really transparent*/
+		border: 5px dotted black;
+		border-radius: 25px;
+		width: 200px;
+		box-shadow: 10px 10px 5px #90b4df;
+	}
+
+
+	h2{
+		color: #b2e676;
+		background-color: purple;/* a is auto, which makes the color transparent; anything less than zero is really transparent*/
+		border: 5px dotted black;
+		width: 600px;
+		font-size:180%;
+	}
+
+
+	.present img{
+		display:block;
+	 	margin:10px 0 10px 0;
+	}
+
+
+	p{
+		 background-color: #90b4df;
+		 border: 5px dotted black;
+		 border-radius: 25px;
+		 width: 180px;
+		 font-size:150%;	 
+	}
+
+
+	h3{
+		 background-color: red;
+		 border: 5px dashed black;
+		 width: 700px;
+		 font-size: 200%;
+		 box-shadow: 10px 10px 5px green; 
+	}
+
